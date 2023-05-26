@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SprApplication<spr>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "spring.spr.SprApplication",
+            "projectName": "spr",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
